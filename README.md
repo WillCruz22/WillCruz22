@@ -1,100 +1,42 @@
-#  Willian da Cruz Ribeiro
+# 👨‍💻 Willian da Cruz Ribeiro
 
-**`Desenvolvedor Front-End`**
+**Desenvolvedor Front-End | React Native**
 
-Me chamo Willian da Cruz Ribeiro, tenho 28 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Municipal Dr. José Vargas de Souza, juntamente com o curso técnico em Redes de Computadores. Sou graduado em Tecnologia em Redes de Computadores e sempre fui apaixonado por tecnologia.
+Me chamo **Willian da Cruz Ribeiro**, tenho 28 anos e sou natural do **Rio de Janeiro**.  
+Sou formado em **Tecnologia em Redes de Computadores**, com formação técnica na área, e sempre fui apaixonado por tecnologia.
 
-Iniciei meu primeiro contato com a programação durante a graduação, o que despertou em mim a curiosidade e o interesse em aprender mais. No entanto, naquele momento, meu foco estava em concluir a formação, e acabei deixando esse interesse em segundo plano. Alguns anos depois, não me sentindo plenamente satisfeito com minha área de atuação, decidi retomar aquele desejo inicial e aprofundar meus estudos. Foi nesse processo que descobri minha verdadeira paixão: o desenvolvimento de aplicativos.
+Meu primeiro contato com programação aconteceu durante a graduação, despertando grande interesse pela área. Naquele momento, priorizei a conclusão da formação, mas alguns anos depois decidi retomar esse objetivo. Foi nesse processo que descobri minha verdadeira paixão: **o desenvolvimento de aplicativos**.
 
-  
-**`Desenvolvedor Front-End`**
+Atualmente, venho desenvolvendo **projetos pessoais** com foco em **Front-End**, principalmente utilizando **React Native**, buscando evolução constante e boas práticas de desenvolvimento.
 
-Venho desenvolvendo alguns projetos pessoais com o objetivo de aprimorar meus conhecimentos e habilidades. Fique à vontade para explorar os repositórios e acompanhar minha evolução como desenvolvedor Front-End, atualmente estou desenvolvendo meus projetos em React-Native.
+📌 Fique à vontade para explorar meus repositórios e acompanhar minha evolução.
+
+---
+
+## 🚀 Linguagens e Tecnologias
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="30" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 Estatísticas GitHub
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-  <img 
-    align="left" 
-    alt="Expo" 
-    title="Expo"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=WillCruz22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=WillCruz22&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCruz22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCruz22&layout=compact&theme=tokyonight&langs_count=4&cache_seconds=86400"
   />
-
 </p>
